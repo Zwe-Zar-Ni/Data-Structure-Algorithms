@@ -1,3 +1,4 @@
+//map and object are hash tables
 class HashTable {
   constructor() {
     this.table = new Array(127);

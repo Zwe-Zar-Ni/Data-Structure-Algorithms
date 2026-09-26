@@ -8,6 +8,7 @@ Welcome to my Data Structures and Algorithms practice repository. This repositor
 - [Getting Started](#getting-started)
 - [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
+- [More to go](#more-to-go)
 
 ## Introduction
 
@@ -42,3 +43,21 @@ Each folder contains problems and solutions related to a specific data structure
 ## Contributing
 
 Contributions are welcome! If you have any improvements or new problems to add, please fork the repository and create a pull request.
+
+## More to go
+- Sets
+    -Maps
+- Graphs
+    - Breadth-first - algorithm
+    - Dijkstra’s algorithm
+    - Bellman-Ford algorithm
+- Greedy algorithms
+- Approximation algorithms
+- NP-complete
+- Dynamic programming algorithm
+- K-nearest neighbors
+- Binary trees
+    - Red-black trees
+    - Heaps
+    - Splay Trees
+- The Fourier transform (Kalid, “An Interactive Guide to the Fourier Transform,” Better Explained, http://mng.bx/874X)
